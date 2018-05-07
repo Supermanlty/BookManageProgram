@@ -44,8 +44,9 @@ class BookManage
                system("cls");
                i++;
             }
+        } 
             
-        }
+      
 
 
 
@@ -57,17 +58,5 @@ class BookManage
 
 
 
-
-
-void view()
-{
-        cout << stu.ISBN << endl;
-        cout << stu.BookName << endl;
-        cout << stu.Author << endl;
-        cout << stu.ClassificationNumber << endl;
-        cout << stu.PublishingHouse << endl;
-        cout << stu.PublicationDate << endl;
-        cout << stu.Price << endl;
-}
 
 
