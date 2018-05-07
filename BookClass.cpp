@@ -16,6 +16,7 @@ class BookManage
             string PublicationDate;
             double Price;
         };
+<<<<<<< HEAD
 };
 
 void view()
@@ -28,3 +29,6 @@ void view()
         cout << stu.PublicationDate << endl;
         cout << stu.Price << endl;
 }
+=======
+};
+>>>>>>> parent of f85ee43... 轮子
