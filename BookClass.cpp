@@ -17,3 +17,14 @@ class BookManage
             double Price;
         };
 };
+
+void view()
+{
+        cout << stu.ISBN << endl;
+        cout << stu.BookName << endl;
+        cout << stu.Author << endl;
+        cout << stu.ClassificationNumber << endl;
+        cout << stu.PublishingHouse << endl;
+        cout << stu.PublicationDate << endl;
+        cout << stu.Price << endl;
+}
